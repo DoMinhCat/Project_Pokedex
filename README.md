@@ -1,16 +1,14 @@
-<h1>Présentation</h1>
-Bienvenue sur Pokédex, un projet développé dans le cadre de ma formation à l'ESGI Paris, école d’ingénierie informatique.
-Ce projet a pour objectif de mettre en pratique nos compétences en développement web à travers la création d’un site de consultation de Pokémons via une API tierce.
+<h1>Project Description</h1>
+Welcome to Pokédex, a project developed as part of my studies at ESGI Paris, a computer engineering school.
+This project aims to put my web development skills into practice by creating a Pokémon search engine using a third-party API.
 <br>
-<h1>Fonctionnalités</h1>
-<h3>Ce site propose les fonctionnalités suivantes :</h3>
+<h1>Features</h1>
 <ul>
-<li><strong> Consultation des Pokémons :</strong> Affiche des informations sur les Pokémons récupérées depuis une API externe.</li>
-<li><strong> Historique des recherches :</strong> Conserve un historique des Pokémons consultés par l'utilisateur.</li>
-  <li><strong> Filtrage des recherches :</strong> Permet à l'utilisateur de filtrer les Pokémons affichés (par nom, type, etc.)..</li>
+<li><strong>Pokémon Lookup:</strong> Display information about Pokémon retrieved from an external API.</li>
+<li><strong>Search History:</strong> Keep a history of Pokémon viewed by the user.</li>
+<li><strong>Search Filtering:</strong> Allow users to filter the displayed Pokémon (by name, type, etc.).</li>
 </ul>
-<h1>Technologies utilisées</h1>
-<h3>Le projet a été entièrement réalisé à l'aide des technologies suivantes :</h3>
+<h1>Technologies used</h1>
 <ul>
 <li>HTML / CSS</li>
 
@@ -20,20 +18,13 @@ Ce projet a pour objectif de mettre en pratique nos compétences en développeme
 
 </ul>
   
-<h1>Objectif pédagogique</h1>
-<h3>Ce projet m'a permis de :</h3>
+<h1>Educational objective</h1>
+<h3>This project helped me :</h3>
 <ul>
-  <li>Comprendre et appliquer les principes de base du développement web.</li>
-<li>Consommer des données à partir d'une API externe.</li>
-
-<li>Développer une application web interactive avec HTML, CSS et JavaScript.</li>
-<li>Utiliser PHP pour la logique côté serveur et la gestion des données.</li>
-<li>Mettre en œuvre un système de gestion de l'historique des recherches.</li>
-<li>Concevoir et implémenter des fonctionnalités de filtrage de données.</li>
+<li>Understand and apply the basic principles of web development.</li>
+<li>Retrieve data from an external API.</li>
+<li>Develop an interactive web application with HTML, CSS, and JavaScript.</li>
+<li>Use PHP for server-side logic and data management.</li>
+<li>Implement a search history management system.</li>
+<li>Design and implement data filtering features.</li>
 </ul>
-<h1>Auteurs</h1> 
-<ul>
-  <li>Minh Cat DO</li>
-  </ul>
-  <br>
-Étudiant de première année à l’ESGI Paris, promo 2024-2025.
